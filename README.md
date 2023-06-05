@@ -28,10 +28,10 @@ Save the program and execute it .
 Program:
 
 
-Developed By: S.Dinesh
+Developed By: Kabilan V
 
 
-Register no.: 212222230033
+Register no.: 212222100018
 
 
 
