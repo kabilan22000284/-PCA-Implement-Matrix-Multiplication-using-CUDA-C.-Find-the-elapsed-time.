@@ -21,12 +21,10 @@ Step 5 :
 Save the program and execute it .
 
 ## Program:
+
+### Developed By: Kabilan V
+### Register no.: 212222100018
 ```
-Developed By: Kabilan V
-Register no.: 212222100018
-
-
-
 #include <stdio.h>
 #include <sys/time.h>
 
